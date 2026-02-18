@@ -4,16 +4,18 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Made specifically so I can speed up making code for [Decorations](https://github.com/slyzowo/Decorations)
+Made specifically so I can speed up making the code for [Decorations](https://github.com/slyzowo/Decorations).
 
 
 # Installation
-Don't
+Don't.
 
 # Roadmap
 - [ ] captital and lowercase functions
-- [ ] export to `.txt` file
+- [X] export to `.txt` file
 - [ ] make `DataGen_builder.cpp`
+- [ ] make `Inventory_builder.cpp`
+- [ ] make `Model_builder.cpp`
 
 # Contributes
 Open to contributions!
