@@ -1,49 +1,9 @@
 #include <iostream>
 #include <vector>
-using std::cout, std::cin, std::string;
+#include "ModBlocks.hpp"
+using std::cout, std::cin, std::string, std::vector;
 
 int main() {
-
-  std::vector<string> furniture = {
-    "arm_chair",
-    "dining_chair",
-    "egg chair",
-    "stool",
-  };
-
-  std::vector<string> wood = {
-    "oak",
-    "spruce",
-    "birch",
-    "jungle",
-    "acacia",
-    "dark_oak",
-    "mangrove",
-    "cherry",
-    "pale_oak",
-    "bamboo",
-    "crimson",
-    "warped",
-  };
-
-  std::vector<string> colour = {
-    "white",
-    "pink",
-    "red", 
-    "orange", 
-    "yellow", 
-    "lime", 
-    "green", 
-    "light_blue", 
-    "cyan", 
-    "blue", 
-    "purple", 
-    "magenta", 
-    "brown", 
-    "light_gray", 
-    "gray", 
-    "black" 
-  };
 
   cout << "Number of Furniture : " << furniture.size() << '\n';
   cout << "Number of Wood : " << wood.size() << '\n';
